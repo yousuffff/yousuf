@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yousuf:
 
-- 🔭 I’m currently looking for a on <a href="https://createwithshuttle.com/welcome" target="_blank">Shuttle</a>
+- 🔭 I’m currently looking for a frontend Dev Role
 
 - 👯‍♀️ I'm looking to collaborate on **Full-Stack Web Applications using Vue or React**
 
